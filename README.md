@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Santiago Martínez Olaya](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN) 👋
+# ¡Hola! Soy [Santiago Martínez Olaya](https://www.linkedin.com/in/bsmo0211/) 👋
 
 ### Full Stack Developer | Bogotá, Colombia
 
