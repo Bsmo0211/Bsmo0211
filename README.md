@@ -30,5 +30,5 @@ Tengo 24 años y me apasiona construir soluciones escalables y eficientes. Mi en
 Si quieres charlar sobre tecnología, proyectos o simplemente conectar, no dudes en escribirme:
 
 * **LinkedIn:** [Santiago Martínez Olaya](https://www.linkedin.com/in/bsmo0211/)
-* **GitHub:** [@tu_usuario](https://github.com/Bsmo0211)
+* **GitHub:** [@Bsmo0211](https://github.com/Bsmo0211)
 
