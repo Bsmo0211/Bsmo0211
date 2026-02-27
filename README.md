@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Bogotá, Colombia
 
-Tengo 24 años y me apasiona construir soluciones escalables y eficientes. Mi enfoque principal es el desarrollo de aplicaciones web y móviles modernas, combinando la potencia de **TypeScript** con frameworks robustos como **Next.js** y la agilidad de **Flutter** para el desarrrolo móvil.
+Tengo 24 años y me apasiona construir soluciones escalables y eficientes. Mi enfoque principal es el desarrollo de aplicaciones web y móviles modernas, combinando la potencia de **TypeScript** con frameworks robustos como **Next.js** y la agilidad de **Flutter** para el desarrollo móvil.
 
 ---
 
